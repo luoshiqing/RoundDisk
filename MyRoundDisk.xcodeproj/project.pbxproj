@@ -12,6 +12,19 @@
 		D64374BD1DE41FF5002B9F08 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64374BB1DE41FF5002B9F08 /* Main.storyboard */; };
 		D64374BF1DE41FF5002B9F08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D64374BE1DE41FF5002B9F08 /* Assets.xcassets */; };
 		D64374C21DE41FF5002B9F08 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64374C01DE41FF5002B9F08 /* LaunchScreen.storyboard */; };
+		D64374CB1DE42030002B9F08 /* BaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374CA1DE42030002B9F08 /* BaseNavigationController.swift */; };
+		D64374CD1DE42070002B9F08 /* RootController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374CC1DE42070002B9F08 /* RootController.swift */; };
+		D64374D31DE421DE002B9F08 /* rizhiAdd@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D64374CF1DE421DE002B9F08 /* rizhiAdd@2x.png */; };
+		D64374D41DE421DE002B9F08 /* rizhiAdd@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D64374D01DE421DE002B9F08 /* rizhiAdd@3x.png */; };
+		D64374D51DE421DE002B9F08 /* tmBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D64374D11DE421DE002B9F08 /* tmBack@2x.png */; };
+		D64374D61DE421DE002B9F08 /* tmBack@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D64374D21DE421DE002B9F08 /* tmBack@3x.png */; };
+		D64374D81DE4243F002B9F08 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374D71DE4243F002B9F08 /* MyCell.swift */; };
+		D64374DA1DE42BC0002B9F08 /* CircleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374D91DE42BC0002B9F08 /* CircleController.swift */; };
+		D64374DC1DE42DDB002B9F08 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374DB1DE42DDB002B9F08 /* BaseViewController.swift */; };
+		D64374DE1DE42EBB002B9F08 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374DD1DE42EBB002B9F08 /* TestViewController.swift */; };
+		D64374E01DE4300F002B9F08 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374DF1DE4300F002B9F08 /* CircleView.swift */; };
+		D64374E21DE44128002B9F08 /* CircleRadian.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64374E11DE44128002B9F08 /* CircleRadian.swift */; };
+		D69619A11DE6F58800C7F42F /* MyBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = D69619A01DE6F58800C7F42F /* MyBtn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		D64374BE1DE41FF5002B9F08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D64374C11DE41FF5002B9F08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D64374C31DE41FF5002B9F08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D64374CA1DE42030002B9F08 /* BaseNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseNavigationController.swift; sourceTree = "<group>"; };
+		D64374CC1DE42070002B9F08 /* RootController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootController.swift; sourceTree = "<group>"; };
+		D64374CF1DE421DE002B9F08 /* rizhiAdd@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rizhiAdd@2x.png"; sourceTree = "<group>"; };
+		D64374D01DE421DE002B9F08 /* rizhiAdd@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rizhiAdd@3x.png"; sourceTree = "<group>"; };
+		D64374D11DE421DE002B9F08 /* tmBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tmBack@2x.png"; sourceTree = "<group>"; };
+		D64374D21DE421DE002B9F08 /* tmBack@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tmBack@3x.png"; sourceTree = "<group>"; };
+		D64374D71DE4243F002B9F08 /* MyCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
+		D64374D91DE42BC0002B9F08 /* CircleController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleController.swift; sourceTree = "<group>"; };
+		D64374DB1DE42DDB002B9F08 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		D64374DD1DE42EBB002B9F08 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		D64374DF1DE4300F002B9F08 /* CircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		D64374E11DE44128002B9F08 /* CircleRadian.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleRadian.swift; sourceTree = "<group>"; };
+		D69619A01DE6F58800C7F42F /* MyBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyBtn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +80,43 @@
 		D64374B61DE41FF5002B9F08 /* MyRoundDisk */ = {
 			isa = PBXGroup;
 			children = (
+				D64374CE1DE421D1002B9F08 /* img */,
+				D64374C91DE42015002B9F08 /* Base */,
 				D64374B71DE41FF5002B9F08 /* AppDelegate.swift */,
-				D64374B91DE41FF5002B9F08 /* ViewController.swift */,
+				D64374CC1DE42070002B9F08 /* RootController.swift */,
+				D64374D91DE42BC0002B9F08 /* CircleController.swift */,
+				D64374DF1DE4300F002B9F08 /* CircleView.swift */,
+				D64374E11DE44128002B9F08 /* CircleRadian.swift */,
+				D64374DD1DE42EBB002B9F08 /* TestViewController.swift */,
+				D69619A01DE6F58800C7F42F /* MyBtn.swift */,
 				D64374BB1DE41FF5002B9F08 /* Main.storyboard */,
 				D64374BE1DE41FF5002B9F08 /* Assets.xcassets */,
+				D64374B91DE41FF5002B9F08 /* ViewController.swift */,
 				D64374C01DE41FF5002B9F08 /* LaunchScreen.storyboard */,
 				D64374C31DE41FF5002B9F08 /* Info.plist */,
 			);
 			path = MyRoundDisk;
+			sourceTree = "<group>";
+		};
+		D64374C91DE42015002B9F08 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				D64374CA1DE42030002B9F08 /* BaseNavigationController.swift */,
+				D64374D71DE4243F002B9F08 /* MyCell.swift */,
+				D64374DB1DE42DDB002B9F08 /* BaseViewController.swift */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
+		D64374CE1DE421D1002B9F08 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				D64374CF1DE421DE002B9F08 /* rizhiAdd@2x.png */,
+				D64374D01DE421DE002B9F08 /* rizhiAdd@3x.png */,
+				D64374D11DE421DE002B9F08 /* tmBack@2x.png */,
+				D64374D21DE421DE002B9F08 /* tmBack@3x.png */,
+			);
+			name = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +180,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				D64374C21DE41FF5002B9F08 /* LaunchScreen.storyboard in Resources */,
+				D64374D41DE421DE002B9F08 /* rizhiAdd@3x.png in Resources */,
+				D64374D51DE421DE002B9F08 /* tmBack@2x.png in Resources */,
 				D64374BF1DE41FF5002B9F08 /* Assets.xcassets in Resources */,
 				D64374BD1DE41FF5002B9F08 /* Main.storyboard in Resources */,
+				D64374D31DE421DE002B9F08 /* rizhiAdd@2x.png in Resources */,
+				D64374D61DE421DE002B9F08 /* tmBack@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +196,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D64374E01DE4300F002B9F08 /* CircleView.swift in Sources */,
 				D64374BA1DE41FF5002B9F08 /* ViewController.swift in Sources */,
+				D64374D81DE4243F002B9F08 /* MyCell.swift in Sources */,
+				D64374DE1DE42EBB002B9F08 /* TestViewController.swift in Sources */,
 				D64374B81DE41FF5002B9F08 /* AppDelegate.swift in Sources */,
+				D64374DA1DE42BC0002B9F08 /* CircleController.swift in Sources */,
+				D64374E21DE44128002B9F08 /* CircleRadian.swift in Sources */,
+				D64374CB1DE42030002B9F08 /* BaseNavigationController.swift in Sources */,
+				D64374DC1DE42DDB002B9F08 /* BaseViewController.swift in Sources */,
+				D69619A11DE6F58800C7F42F /* MyBtn.swift in Sources */,
+				D64374CD1DE42070002B9F08 /* RootController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +329,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = NP7D9SC777;
 				INFOPLIST_FILE = MyRoundDisk/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sql.MyRoundDisk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -274,6 +343,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = NP7D9SC777;
 				INFOPLIST_FILE = MyRoundDisk/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sql.MyRoundDisk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -300,6 +370,7 @@
 				D64374C81DE41FF5002B9F08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
